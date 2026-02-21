@@ -1,0 +1,9 @@
+{
+  "name": "USA Housing Price Predictor",
+  "description": "Machine learning web app for predicting USA housing prices using Linear Regression and KNN models",
+  "keywords": ["streamlit", "machine-learning", "housing-prices", "python"],
+  "buildpacks": [
+    {"url": "heroku/python"}
+  ],
+  "repository": "https://github.com/yourusername/usa-housing-prediction"
+}
